@@ -39,9 +39,7 @@ namespace Ejercicio22Vercion01
             {
 				Console.WriteLine("Opcion no valida... Fin del programa");
             }
-
-
-			Console.WriteLine();
+        	Console.WriteLine();
 		}
     }
 }
